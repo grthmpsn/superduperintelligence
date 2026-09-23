@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://superduperintelligence.org/sitemap.xml
+Sitemap: https://www.superduperintelligence.org/sitemap.xml
